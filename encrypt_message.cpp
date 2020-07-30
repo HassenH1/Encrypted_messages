@@ -47,12 +47,16 @@ int main()
       }
     }
   }
+  cout << endl;
+  cout << "Encrypting message...." << endl;
+  cout << endl;
 
   for (auto s : str_arr)
   {
     cout << s;
   }
 
+  cout << endl;
   cout << endl;
 
   return 0;
